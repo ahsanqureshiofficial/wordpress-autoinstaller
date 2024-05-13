@@ -9,7 +9,7 @@ Before running this script, ensure you have:
  
 # Installation
 ```bash
-wget -O setup.sh https://raw.githubusercontent.com/UncutDevs/litespeedwordpress/main/OpenLiteSpeedWP.sh
+wget -O setup.sh https://raw.githubusercontent.com/ahsanqureshiofficial/wordpress-autoinstaller/main/openlitespeed-wordpress.sh
 chmod +x setup.sh
 ./setup.sh
 ```
